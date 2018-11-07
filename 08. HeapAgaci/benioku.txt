@@ -1,0 +1,1 @@
+Sayi.cpp dosyasýnda, get fonksiyonunda stol fonksiyonu kullanýlmýþtýr. Bu fonksiyonu hiçbir þekilde tanýtamadýk. Araþtýrmamýz sonucu Mingw32 derleyicisinin c++ 11 versiyonunda kullanýlan bu fonksiyonu çalýþtýramadýðýný öðrendik. Yine de yazabildiðimiz kodu gönderdik. 
